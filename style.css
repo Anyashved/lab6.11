@@ -1,0 +1,66 @@
+.main-title{
+    color: red;
+}
+
+.nav-list li:nth-child(1) .link{
+color: green;
+}
+
+.link.special-link{
+    color: blue;
+}
+
+.nav-list li:nth-child(3) .link{
+    color: yellow;
+    }
+
+
+#first-post h2{
+    color: orange;
+}
+
+#first-post p{
+    background-color: orange;
+}
+
+.post h2{
+    color: blueviolet;
+}
+
+.post p{
+    background-color: blueviolet;
+}
+
+.widget{
+    color: palevioletred;
+}
+
+.color-list li:nth-of-type(1){
+    color: gray;
+}
+
+.color-list li:nth-of-type(2){
+    color: saddlebrown;
+}
+
+.highlighted{
+    color:black
+}
+
+.widget.important-widget {
+    color:rgb(211, 43, 43);
+}
+
+.note{
+    color: rgb(198, 40, 45);
+}
+
+#name {
+    color: wheat;
+}
+
+button{
+    background-color:black;
+    color: white;
+}
+
